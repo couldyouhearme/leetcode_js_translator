@@ -1,3 +1,5 @@
 # leetcode_js_translator
 
-translate Java/Python Leetcode problems into JavaScript Solution
+translate Leetcode Java/Python solutions into JavaScript versions
+
+
